@@ -3,6 +3,16 @@
 Navigation Drawer And Toolbar
 =========
 
-## Open Drawer
+<p><b>open Drawer</b></p>
 
-[![openDrawer](https://drive.google.com/file/d/0B1GSayOyKQZYNEdJeXBldGlnWHM/view)]
+[openDrawer](https://drive.google.com/file/d/0B1GSayOyKQZYNEdJeXBldGlnWHM/view)
+
+
+<p><b>close Drawer Drawer</b></p>
+
+[closeDrawer](https://drive.google.com/open?id=0B1GSayOyKQZYY1Nlc3hZMWJZZGM/view)
+
+
+<p><b>extend search icon</b></p>
+
+[search icon](https://drive.google.com/open?id=0B1GSayOyKQZYcy1kU3Y3anFmeVk/view)
